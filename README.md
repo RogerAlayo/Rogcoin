@@ -1,0 +1,2 @@
+# Rogcoin
+Blockchain Implementation
